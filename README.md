@@ -26,7 +26,7 @@
 
 - VASP / Quantum ESPRESSO / CP2K  
 - ASE / Pymatgen  
-- LAMMPS / GROMACS  
+- LAMMPS / GPUMD  
 - RASPA / GCMC tools  
 - Pore+ / Zeo++ / Materials analysis  
 
