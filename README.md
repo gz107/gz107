@@ -4,16 +4,16 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 Researcher in **computational materials & adsorption separation**
-- 🧪 Focus on **MOFs/COFs**, gas adsorption, diffusion, molecular simulations
-- 🔬 Skilled in **VASP · ASE · LAMMPS · GCMC · Python scientific computing**
-- 🧰 Building tools for **materials screening**, **structure processing**, **high-throughput analysis**
-- ✨ Love clean code, reproducible workflows, and elegant simulation pipelines
+##  About Me
+-  Researcher in **computational materials & adsorption separation**
+-  Focus on **MOFs/COFs**, gas adsorption, diffusion, molecular simulations
+-  Skilled in **VASP · ASE · LAMMPS · GCMC · Python scientific computing**
+-  Building tools for **materials screening**, **structure processing**, **high-throughput analysis**
+-  Love clean code, reproducible workflows, and elegant simulation pipelines
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 ### **Languages**
 <p>
   <img src="https://skillicons.dev/icons?i=python,bash,markdown" />
@@ -21,7 +21,7 @@
 
 ### **Scientific / Simulation**
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git" />
+  <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 - MS / VASP / CP2K  
