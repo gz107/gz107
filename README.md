@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=linux,git" />
 </p>
 
-- VASP / Quantum ESPRESSO / CP2K  
+- MS / VASP / CP2K  
 - ASE / Pymatgen  
 - LAMMPS / GPUMD  
 - RASPA / GCMC tools  
