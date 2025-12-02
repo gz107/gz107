@@ -28,7 +28,7 @@
 - ASE / Pymatgen  
 - LAMMPS / GPUMD  
 - RASPA / GCMC tools  
-- Pore+ / Zeo++ / Materials analysis  
+- Pore+ / Zeo++ 
 
 ---
 
