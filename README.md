@@ -1,8 +1,3 @@
-<!-- 头像（居中） -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your_id" width="120" style="border-radius:50%" />
-</p>
-
 <!-- 名字 -->
 <h1 align="center">Hi 👋, I'm Zheng Gao</h1>
 <h3 align="center">Computational Materials • MOF/COF • Adsorption & Separation • Scientific Programming</h3>
@@ -38,7 +33,7 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: **gaozheng@stu.xjtu.edu.cn**
+- 📧 Email: **gaozheng at stu.xjtu.edu.cn**
 - 🌐 Personal Site: *https://gaozheng.netlify.app/*  
 
 ---
