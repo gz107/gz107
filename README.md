@@ -37,26 +37,6 @@
 
 ---
 
-## 📌 Featured Projects
-> （把你想重点展示的项目 pin 到 GitHub）
-
-| Project | Description |
-|--------|-------------|
-| **High-throughput COF screening** | Pipeline for adsorption property prediction based on GCMC |
-| **Pore+ workflow scripts** | Structure processing, unit-cell fixing, pore analysis |
-| **Zeolite / MOF DFT tools** | Automated VASP workflows for adsorption energy |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gz107&show_icons=true&theme=default" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gz107&layout=compact" />
-</p>
-
----
-
 ## 📫 Contact
 - 📧 Email: **gaozheng@stu.xjtu.edu.cn**
 - 🌐 Personal Site: *https://gaozheng.netlify.app/*  
