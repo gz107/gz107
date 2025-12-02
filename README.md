@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash,fortran,markdown" />
+  <img src="https://skillicons.dev/icons?i=python,bash,markdown" />
 </p>
 
 ### **Scientific / Simulation**
