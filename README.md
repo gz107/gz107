@@ -58,8 +58,8 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: **your_email@example.com**
-- 🌐 Personal Site: *(如果你有 netlify 或其他主页，可以加上)*  
+- 📧 Email: **gaozheng@stu.xjtu.edu.cn**
+- 🌐 Personal Site: *https://gaozheng.netlify.app/*  
 
 ---
 
