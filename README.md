@@ -34,7 +34,6 @@
 
 ## Contact
 -  Email: **gaozheng at stu.xjtu.edu.cn**
--  Personal Site: *https://gaozheng.netlify.app/*  
 
 ---
 
