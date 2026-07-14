@@ -1,40 +1,23 @@
-<!-- 名字 -->
 <h1 align="center">Hi 👋, I'm Zheng Gao</h1>
-<h3 align="center">Computational Materials • MOF/COF • Adsorption & Separation • Scientific Programming</h3>
-
----
-
-##  About Me
--  Researcher in **computational materials & adsorption separation**
--  Focus on **MOFs/COFs**, gas adsorption, diffusion, molecular simulations
--  Skilled in **VASP · ASE · LAMMPS · GCMC · Python scientific computing**
--  Building tools for **materials screening**, **structure processing**, **high-throughput analysis**
--  Love clean code, reproducible workflows, and elegant simulation pipelines
-
----
-
-##  Tech Stack
-### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash,markdown" />
+<p align="center">
+Computational Materials • MOF/COF • Adsorption & Separation • Scientific Programming
 </p>
 
-### **Scientific / Simulation**
+## About Me
+
+- Computational materials researcher
+- Working on **MOFs/COFs**, gas adsorption & molecular simulations
+- Using **VASP, LAMMPS, ASE, Python**
+- Interested in high-throughput screening and scientific workflows
+
+## Tech Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,markdown" />
 </p>
 
-- MS / VASP / CP2K  
-- ASE / Pymatgen  
-- LAMMPS / GPUMD  
-- RASPA / GCMC tools  
-- Pore+ / Zeo++ 
-
----
+**Simulation:** VASP · CP2K · LAMMPS · GPUMD · ASE · Pymatgen · RASPA · Zeo++
 
 ## Contact
--  Email: **gaozheng at stu.xjtu.edu.cn**
 
----
-
-<p align="center">⭐️ If you like my work, feel free to star a repo!</p>
+📧 gaozheng at stu.xjtu.edu.cn
