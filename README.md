@@ -10,14 +10,4 @@ Computational Materials • MOF/COF • Adsorption & Separation • Scientific P
 - Using **VASP, LAMMPS, ASE, Python**
 - Interested in high-throughput screening and scientific workflows
 
-## Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,markdown" />
-</p>
-
 **Simulation:** VASP · CP2K · LAMMPS · GPUMD · ASE · Pymatgen · RASPA · Zeo++
-
-## Contact
-
-📧 gaozheng at stu.xjtu.edu.cn
